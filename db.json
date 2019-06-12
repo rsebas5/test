@@ -1,5 +1,3 @@
-{
-[
         {
         "id": 1,
         "nombre": "plugVoc",
@@ -18,5 +16,4 @@
         "descripcion": "descripcion de plugSocial",
         "logo": "logo plugSocial"
         }
-]
-}
+
