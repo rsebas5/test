@@ -4,16 +4,3 @@
         "descripcion": "descripcion de plugVoc",
         "logo": "logo plugVoc"
          },
-        {
-        "id": 2,
-        "nombre": "plugLink",
-        "descripcion": "descripcion de plugLink",
-        "logo": "logo plugLink"
-        },
-        {
-        "id": 3,
-        "nombre": "plugSocial",
-        "descripcion": "descripcion de plugSocial",
-        "logo": "logo plugSocial"
-        }
-
